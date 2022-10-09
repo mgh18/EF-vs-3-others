@@ -1,0 +1,18 @@
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\bin\Debug\EF vs 3 others.exe.config
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\bin\Debug\EF vs 3 others.exe
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\bin\Debug\EF vs 3 others.pdb
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\obj\Debug\EF vs 3 others.csproj.AssemblyReference.cache
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\obj\Debug\EF vs 3 others.csproj.SuggestedBindingRedirects.cache
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\obj\Debug\EF_vs_3_others.Form1.resources
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\obj\Debug\EF_vs_3_others.Properties.Resources.resources
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\obj\Debug\EF vs 3 others.csproj.GenerateResource.cache
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\obj\Debug\EF vs 3 others.csproj.CoreCompileInputs.cache
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\obj\Debug\EF vs 3 others.exe
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\obj\Debug\EF vs 3 others.pdb
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\bin\Debug\EntityFramework.dll
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\bin\Debug\NuGet.Frameworks.dll
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\bin\Debug\EntityFramework.xml
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\bin\Debug\NuGet.Frameworks.xml
+C:\Users\marziyeh\source\repos\EF vs 3 others\EF vs 3 others\obj\Debug\EF vs 3 others.csproj.CopyComplete
